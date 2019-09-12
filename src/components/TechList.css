@@ -1,0 +1,39 @@
+.content {
+  text-align: center;
+  text-decoration-line: none;
+}
+.text {
+  margin-top: 30px;
+  border: none;
+  border-radius: 20px;
+  padding: 5px;
+}
+li {
+  list-style-type: none;
+}
+.removeBtn {
+  background-color: brown;
+  color: aliceblue;
+  border: none;
+  border-radius: 50%;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.addBtn {
+  border: none;
+  border-radius: 20px;
+  background-color: blueviolet;
+  color: aliceblue;
+  cursor: pointer;
+  padding: 5px;
+  margin-left: 10px;
+}
+.addBtn:hover {
+  background-color: aliceblue;
+  color: blueviolet;
+  transition: 500ms;
+}
+.list {
+  margin-left: -3%;
+}
